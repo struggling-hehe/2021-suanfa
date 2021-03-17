@@ -1,6 +1,6 @@
 package link;
 
 public class CmmonNode {
-    int val;
+int val;
 
 }
